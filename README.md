@@ -159,12 +159,9 @@ Dummy固件支持三种不同的指令模式（指令可以由USB、串口、CAN
 
 ---
 
+赞助声明
+本项目由 VTEXS 的「开源项目免费 VPS 计划」提供算力支持。
+感谢 VTEXS 对开源社区的支持!
+Fen ML i
 
-
-> **感谢以下项目作者：**
->
-> * [unlir/XDrive: Stepper motor with multi-function interface and closed loop function. 具有多功能接口和闭环功能的步进电机。 (github.com)](https://github.com/unlir/XDrive)
-> * [odriverobotics/ODrive: High performance motor control (github.com)](https://github.com/odriverobotics/ODrive)
-> * [olikraus/u8g2: U8glib library for monochrome displays, version 2 (github.com)](https://github.com/olikraus/u8g2)
-> * [samuelsadok/fibre: Abstraction layer for painlessly building object oriented distributed systems that just work (github.com)](https://github.com/samuelsadok/fibre)
 
